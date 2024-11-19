@@ -1,0 +1,15 @@
+{
+    "ticket_number": "A123456789",
+    "passenger_name": "John Doe",
+    "departure_station": "Cracow Main Station",
+    "arrival_station": "Warsaw Main Station",
+    "departure_time": "2024-11-19T08:00:00",
+    "arrival_time": "2024-11-19T09:30:00",
+    "seat": {
+        "car": 5,
+        "number": 18,
+        "type": "Window"
+    },
+    "price": 15,
+    "is_refundable": true
+}

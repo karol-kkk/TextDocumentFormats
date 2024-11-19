@@ -1,0 +1,20 @@
+<transport>
+    <vehicle type="car" fuel="gasoline">
+        <brand>BMW</brand>
+        <model>E36</model>
+        <year>1997</year>
+        <color>Black</color>
+    </vehicle>
+    <vehicle type="bike" fuel="none">
+        <brand>Cult</brand>
+        <model>Devotion</model>
+        <year>2019</year>
+        <color>Purple</color>
+    </vehicle>
+    <vehicle type="train" fuel="electric">
+        <brand>Siemens</brand>
+        <model>Desiro</model>
+        <year>2021</year>
+        <color>Green</color>
+    </vehicle>
+</transport>

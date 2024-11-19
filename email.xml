@@ -1,0 +1,16 @@
+<email>
+    <sender>
+        <name>John Doe</name>
+        <email_address>johndoe@example.com</email_address>
+    </sender>
+    <recipient>
+        <name>George Flinston</name>
+        <email_address>georgeflinston@example.com</email_address>
+    </recipient>
+    <subject>Meeting Reminder</subject>
+    <body>
+        <content>
+            Hello George, I want to remind you about tomorrow's meeting at 10 AM in the conference room.
+        </content>
+    </body>
+</email>
